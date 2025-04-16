@@ -1,0 +1,16 @@
+numpy 
+pandas
+matplotlib
+seaborn
+python-dotenv
+sqlalchemy
+psycopg2
+missingno
+plotly
+mplcursors
+dash
+streamlit
+pillow
+polars
+ipykernel
+dvc
