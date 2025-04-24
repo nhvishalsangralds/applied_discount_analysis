@@ -1,0 +1,21 @@
+Sum of usage_count,Column Labels,,,,,,,,,,,,,
+Row Labels,2024-03,2024-04,2024-05,2024-06,2024-07,2024-08,2024-09,2024-10,2024-11,2024-12,2025-01,2025-02,2025-03,2025-04
+Discount code has already been used,4,857,,1491,,,2044,1838,2057,2265,2786,2039,2183,1075
+Discount Code has expired,,,925,,,,,,,,,,,
+Discount Code is not active,,,,,2637,5397,,2462,4305,,5150,3816,3577,2202
+Discount Code is not applicable on above products,3,1052,829,,1688,1907,,1355,1758,1810,3574,2014,2205,1475
+Discount code is valid for a minimum ₹1099 cart value only,2,,,,,,,,,,,,,
+Discount code is valid for a minimum ₹1199 cart value only,,,,,,3649,2565,,,,,,,
+Discount code is valid for a minimum ₹1999 cart value only,5,,,,,,,,,,,,,
+Discount code is valid for a minimum ₹499 cart value only,11,3144,2628,2815,2550,,,,,,,,,
+Discount code is valid for a minimum ₹499.0 cart value only,,,,,,,1767,2057,1993,2332,2580,2788,3007,1944
+Discount code is valid for a minimum ₹599 cart value only,16,2237,1445,1166,,,,,,,,,,
+Discount code is valid for a minimum ₹599.0 cart value only,,2995,2910,2068,2259,2055,1651,1574,3109,3326,3853,3824,4354,2372
+Discount code is valid for a minimum ₹699 cart value only,4,7053,10323,8654,8503,2416,1361,,1480,1498,1635,1689,1818,946
+Discount code is valid for a minimum ₹699.0 cart value only,,5523,4230,3051,1744,4928,6988,9164,8628,6785,8168,11114,13762,7955
+Discount code is valid for a minimum ₹799.0 cart value only,4,,,2686,3802,10635,3524,5977,5377,3260,5973,4074,5862,5840
+Discount code is valid for a minimum ₹899 cart value only,,1106,,,,,,,,,,,,
+Discount code is valid for a minimum ₹899.0 cart value only,,,1420,1376,1569,4767,1366,1267,,1300,,,,
+Invalid discount code,11,3915,4773,3924,3608,2841,2507,2502,2096,2049,2625,2442,2426,1766
+You are not eligible for this discount,15,6009,5676,7866,8054,7538,8622,10681,10414,13146,9120,9108,9829,4735
+Grand Total,75,33891,35159,35097,36414,46133,32395,38877,41217,37771,45464,42908,49023,30310
